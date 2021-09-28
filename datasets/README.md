@@ -1,4 +1,4 @@
-This folder contains datasets generated according to the rules described by (Davydenko and Goodwin, 2021, p. 50-51):
+This folder contains datasets generated according to the rules described by (Davydenko and Goodwin, 2021, pp. 50-51):
 
 DataSet1.csv - 'DataSet1' (see Section 6.1, p. 50)
 
