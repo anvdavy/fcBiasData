@@ -1,14 +1,14 @@
 This folder contains datasets generated according to the rules described by (Davydenko and Goodwin, 2021, pp. 50-51):
 
-DataSet1.csv - 'DataSet1' (see Section 6.1, p. 50)
+Dataset1.csv - 'Dataset1' (see Davydenko and Goodwin, 2021,Section 6.1, p. 50)
 
-DataSet2.csv - 'DataSet2' (see Section 6.2, p. 51)
+Dataset2.csv - 'Dataset2' (see Davydenko and Goodwin, 2021,Section 6.2, p. 51)
 
 Coulmns:
-- series: time series index,
-- time: time index,
-- actual: actual time series value,
-- Methodx: forecast from Method 'x'
+- series - time series index,
+- time - time index,
+- actual - actual time series value,
+- Methodx - forecast from Method 'x'
 
 References:
 
