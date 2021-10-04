@@ -8,7 +8,7 @@ Coulmns:
 - series - time series index,
 - time - time index,
 - actual - actual time series value,
-- Methodx - forecast from Method 'x'
+- Methodx - forecast from Method 'x'.
 
 References:
 
